@@ -35,8 +35,9 @@ tutorial links are listed here:
 For English users
 
 1. https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial, a short tutorial
-2. http://askpython.com/, a short tutorial
-3. http://www.learnpython.org/, an interactive sandbox
+2. https://pythonbasics.org, large python tutorial
+3. http://askpython.com/, a short tutorial
+4. http://www.learnpython.org/, an interactive sandbox
 
 For Chinese users
 
